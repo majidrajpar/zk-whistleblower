@@ -1,4 +1,4 @@
-# Corporate Whistleblower Lite
+# ZK Whistleblower
 
 A lightweight, open-source, self-hosted whistleblowing web application for organizations of all sizes — companies, NGOs, municipalities, schools, and more. Deploy in minutes — not hours.
 
@@ -53,7 +53,7 @@ Unlike existing solutions ([SecureDrop](https://github.com/freedomofpress/secure
 ## Project Structure
 
 ```
-corporate-whistleblower-lite/
+zk-whistleblower/
 ├── app/
 │   ├── backend/          # Express.js API server
 │   │   ├── src/
@@ -108,8 +108,8 @@ corporate-whistleblower-lite/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/majidrajpar/corporate-whistleblower-lite.git
-cd corporate-whistleblower-lite
+git clone https://github.com/majidrajpar/zk-whistleblower.git
+cd zk-whistleblower
 ```
 
 ### 2. Backend Setup
